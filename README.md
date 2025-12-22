@@ -17,8 +17,8 @@ I’m **Muhammad Anas**, a passionate **Full Stack Web Developer** who loves bui
 - 🔭 Working on **full-stack MERN projects**
 - 🌱 Learning **advanced React, backend architecture & APIs**
 - 💡 Interested in **software engineering & clean code**
-- 🤝 Open to **internships, junior roles & freelance work**
-- 📫 Contact: **your@email.com**
+- 🤝 Open to **junior roles & freelance work**
+- 📫 Contact: **anasbakkar.official@outlook.com**
 
 ---
 
