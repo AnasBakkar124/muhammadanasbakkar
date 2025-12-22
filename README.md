@@ -1,84 +1,85 @@
-# Muhammad Anas | Full Stack Developer 👋
+<h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
 
-🚀 Full Stack Web Developer | JavaScript | React | Node.js | MongoDB  
-📍 Open to internships, junior developer roles, and freelance opportunities
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Building+Modern+Web+Apps;Open+to+Opportunities&center=true&width=500&height=50">
+</p>
 
-I am **Muhammad Anas**, a passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.  
-I enjoy turning ideas into real-world products using **JavaScript, React, Node.js, and MongoDB**.
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/raw/master/Assets/Developer.gif" width="400"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **full-stack web projects**
-- 🌱 Learning **advanced React, backend architecture, and APIs**
-- 💡 Interested in **software engineering, problem solving, and clean code**
-- 🤝 Open to collaboration on **open-source and real-world projects**
-- 📫 Reach me at: **your@email.com**
+I’m **Muhammad Anas**, a passionate **Full Stack Web Developer** who loves building modern, scalable, and user-friendly web applications.
+
+- 🔭 Working on **full-stack MERN projects**
+- 🌱 Learning **advanced React, backend architecture & APIs**
+- 💡 Interested in **software engineering & clean code**
+- 🤝 Open to **internships, junior roles & freelance work**
+- 📫 Contact: **your@email.com**
 
 ---
 
-## 🛠️ Tech Stack (Keywords for SEO)
+## 🛠️ Tech Stack
 
-**Languages**
-- JavaScript (ES6+)
-- Python
-- HTML5
-- CSS3
-
-**Frontend**
-- React.js
-- Responsive Web Design
-- Tailwind CSS / Bootstrap
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-
-**Databases**
-- MongoDB
-- MySQL
-
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Linux / Windows
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,python,git,github&perline=5" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Full Stack Web Application
-A complete web application with authentication, database integration, and REST APIs.  
-**Tech Stack:** React, Node.js, Express, MongoDB  
-🔗 Live Demo | 📂 GitHub Repository
+### 🔹 Full Stack MERN Application
+A complete web app with authentication, REST APIs, and database integration.  
+**Tech:** React, Node.js, Express, MongoDB  
+🔗 Live Demo | 📂 Repository
 
-### 🔹 Frontend React Project
+### 🔹 React Frontend Project
 Modern UI with reusable components and responsive design.  
-**Tech Stack:** React, JavaScript, CSS  
-🔗 Live Demo | 📂 GitHub Repository
+**Tech:** React, JavaScript, CSS  
+🔗 Live Demo | 📂 Repository
 
-### 🔹 Backend API Project
-RESTful API with CRUD operations and database connectivity.  
-**Tech Stack:** Node.js, Express, MongoDB  
-📂 GitHub Repository
+### 🔹 Backend REST API
+RESTful API with CRUD operations and MongoDB.  
+**Tech:** Node.js, Express, MongoDB  
+📂 Repository
 
 ---
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadanasbakkar&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanasbakkar&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadanasbakkar&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanasbakkar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake animation](https://github.com/muhammadanasbakkar/muhammadanasbakkar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌍 Portfolio: https://your-portfolio.com
-- 📧 Email: your@email.com
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐️ If you like my work, consider **starring** my repositories and following my GitHub profile.
+⭐️ If you like my work, consider **starring my repositories** and **following my profile**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
