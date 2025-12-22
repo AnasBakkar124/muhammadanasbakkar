@@ -1,44 +1,84 @@
-# Hi, I'm Muhammad Anas Bakkar! 👋
+# Muhammad Anas | Full Stack Developer 👋
 
-**A frontend developer**
-**specialised in React**
+🚀 Full Stack Web Developer | JavaScript | React | Node.js | MongoDB  
+📍 Open to internships, junior developer roles, and freelance opportunities
 
+I am **Muhammad Anas**, a passionate **Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.  
+I enjoy turning ideas into real-world products using **JavaScript, React, Node.js, and MongoDB**.
 
-I am a creative 🌼, time punctual ⏱, dedicated 💪, goal-oriented individual 🎯 with decent moral values and ethics 🙌 along with a high-energy level 🔋, honed communication skills 🗣, strong organizational skills 🗃, and meticulous attention 🕵️ to detail.
+---
 
+## 👨‍💻 About Me
 
+- 🔭 Currently working on **full-stack web projects**
+- 🌱 Learning **advanced React, backend architecture, and APIs**
+- 💡 Interested in **software engineering, problem solving, and clean code**
+- 🤝 Open to collaboration on **open-source and real-world projects**
+- 📫 Reach me at: **your@email.com**
 
-If you can dream it, you can do it 🔥
+---
 
-## 🛠 My Favorite Tools
+## 🛠️ Tech Stack (Keywords for SEO)
 
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+**Languages**
+- JavaScript (ES6+)
+- Python
+- HTML5
+- CSS3
 
-### 🧰 Frameworks and Libraries
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
-![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress)
+**Frontend**
+- React.js
+- Responsive Web Design
+- Tailwind CSS / Bootstrap
 
-### ☁️ Databases and Cloud Hosting
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
 
+**Databases**
+- MongoDB
+- MySQL
 
-### 🛠 Software and Tools
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Linux / Windows
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Full Stack Web Application
+A complete web application with authentication, database integration, and REST APIs.  
+**Tech Stack:** React, Node.js, Express, MongoDB  
+🔗 Live Demo | 📂 GitHub Repository
+
+### 🔹 Frontend React Project
+Modern UI with reusable components and responsive design.  
+**Tech Stack:** React, JavaScript, CSS  
+🔗 Live Demo | 📂 GitHub Repository
+
+### 🔹 Backend API Project
+RESTful API with CRUD operations and database connectivity.  
+**Tech Stack:** Node.js, Express, MongoDB  
+📂 GitHub Repository
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadanasbakkar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanasbakkar&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 🌍 Portfolio: https://your-portfolio.com
+- 📧 Email: your@email.com
+
+---
+
+⭐️ If you like my work, consider **starring** my repositories and following my GitHub profile.
