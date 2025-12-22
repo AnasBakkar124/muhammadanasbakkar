@@ -67,13 +67,10 @@ RESTful API with CRUD operations and MongoDB.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/muhammad-anas-bakkar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:anasbakkar.official@outlook.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
   </a>
 </p>
